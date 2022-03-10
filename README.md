@@ -1,4 +1,4 @@
-# Philippine Populations (1975-2020)
+# Philippines Population (1975-2020)
 
 ## Links
 
